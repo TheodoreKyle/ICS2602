@@ -1,0 +1,14 @@
+D:\Notepad++\Java\C#\C# 2\bin\Debug\net8.0\C# 2.exe
+D:\Notepad++\Java\C#\C# 2\bin\Debug\net8.0\C# 2.deps.json
+D:\Notepad++\Java\C#\C# 2\bin\Debug\net8.0\C# 2.runtimeconfig.json
+D:\Notepad++\Java\C#\C# 2\bin\Debug\net8.0\C# 2.dll
+D:\Notepad++\Java\C#\C# 2\bin\Debug\net8.0\C# 2.pdb
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\C# 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\C# 2.AssemblyInfoInputs.cache
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\C# 2.AssemblyInfo.cs
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\C# 2.csproj.CoreCompileInputs.cache
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\C# 2.dll
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\refint\C# 2.dll
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\C# 2.pdb
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\C# 2.genruntimeconfig.cache
+D:\Notepad++\Java\C#\C# 2\obj\Debug\net8.0\ref\C# 2.dll
